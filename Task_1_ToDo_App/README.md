@@ -1,1 +1,1 @@
-Python internship tasks completed for the CODSOFT Internship Program, including CLI-based applications and core Python concepts.
+Created folder for Task 1 To-Do App
